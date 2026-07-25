@@ -19,10 +19,6 @@
     <p>Welcome to DIGITAL GAMING! We bring you the latest PC and console games with fast delivery and unbeatable deals.</p>
   </header>
 
-  <section>
-    <h2>About Me</h2>
-    <p>Hi! I’m Ayaan Sohail, and I bring you the latest PC and console games with fast delivery and unbeatable deals. Whether you’re a casual player or a hardcore gamer, we’ve got something for everyone. Shop with confidence and level up your gaming experience today!</p>
-  </section>
 
   <section>
     <h2>Contact</h2>
@@ -44,6 +40,32 @@
 <div style="padding:20px;">
   <h2>🔥 Featured Games</h2>
 
+    
+  <div style="margin-bottom:30px;">
+     <h3>Fc 27</h3>
+  <img width="350" height="400"<img width="399" height="501" alt="image" src="https://github.com/user-attachments/assets/22157451-816f-43cc-8c3a-c1901425eab5" />
+    <p>Price: <b>PKR 7,999</b></p>
+    <a href="https://wa.me/923292417779?text=Hi%20I%20want%20to%20buy%20FC 27%27"
+       target="_blank"
+       style="background:#25D366; color:white; padding:10px 22px;
+       text-decoration:none; border-radius:5px; display:inline-block;">
+      📲 Order on WhatsApp
+    </a>
+  </div>
+
+<div style="margin-bottom:30px;">
+     <h3>gta 6</h3>
+  <img width="350" height="400" <img width="966" height="1200" alt="image" src="https://github.com/user-attachments/assets/bbe6bc1a-887b-44d2-8128-44b5e7a50f8d" />
+    <p>Price: <b>PKR 8000</b></p>
+    <a href="https://wa.me/923292417779?text=Hi%20I%20want%20to%20buy%20GTA 6%27"
+       target="_blank"
+       style="background:#25D366; color:white; padding:10px 22px;
+       text-decoration:none; border-radius:5px; display:inline-block;">
+      📲 Order on WhatsApp
+    </a>
+  </div>
+
+  
   <!-- CRICKET 26 -->
   <div style="margin-bottom:30px;">
      <h3>Cricket 26</h3>
